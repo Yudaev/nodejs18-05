@@ -1,0 +1,23 @@
+<div>Hello from HBS news</div>
+<script>
+    document.cookie = "count={{count}}";
+</script>
+<form method="POST" action="/news">
+    <input 
+        type="number" 
+        min="1" 
+        max="15" 
+        {{#if count}}value="{{count}}"{{/if}}
+        name="count" 
+        placeholder="Количество новостей от 1 до 15" 
+        style="width: 300px;"
+    >
+    <input type="submit">
+</form>
+<div>
+    <ol>
+        {{#each list}}
+        <li>{{this}}</li>
+        {{/each}}
+    </ol>
+</div>
