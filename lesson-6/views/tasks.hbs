@@ -1,0 +1,5 @@
+<ul>
+    {{#each tasks}}
+        <li>{{#if task.completed}}<b>[*]</b>{{/if}}{{task.title}}</li>
+    {{/each}}
+</ul>
