@@ -35,7 +35,8 @@ app.set('view engine', 'hbs');
 app.set('views', path.resolve(__dirname, 'views'));
 
 app.get('/tasks', async (req, res) => {
-    const tasks = await Task.find().lean();
+    const { _id } = req.user;
+    const tasks = await Task.find({ user: _id }).lean();
     ///console.log(tasks);
     res.render('tasks', {tasks});
 })
@@ -54,8 +55,6 @@ app.post('/tasks/remove', async (req, res) => {
 
 app.post('/tasks', async (req, res) => {
     const { _id } = req.user;
-    console.log(req.user)
-    // task = new Task(req.body);
     const task = new Task({...req.body, user: _id});
     await task.save();
     res.redirect('/tasks');
