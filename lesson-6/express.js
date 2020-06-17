@@ -39,7 +39,7 @@ app.get('/tasks', async (req, res) => {
     const tasks = await Task.find({ user: _id }).lean();
     ///console.log(tasks);
     res.render('tasks', {tasks});
-})
+});
 
 app.post('/tasks/complete', async (req, res) => {
     const { id, completed } = req.body;
@@ -63,7 +63,7 @@ app.post('/tasks', async (req, res) => {
 app.get('/tasks/:id', async (req, res) => {
     const task = await Task.findById(req.params.id);
     res.render('task', task);
-})
+});
 
 app.post('/tasks/update', async (req, res) => {
     const { id, title } = req.body;
@@ -111,7 +111,7 @@ app.delete('/users', async(req, res) => {
 
 app.get('/register', (req, res) => {
     res.render('register');
-})
+});
 
 app.post('/register', async (req, res) => {
     const { repassword, ...restBody } = req.body;
@@ -124,12 +124,12 @@ app.post('/register', async (req, res) => {
     } else {
         res.redirect('/register?err=repass')
     }
-})
+});
 
 app.get('/auth', (req, res) => {
     const { error } = req.query;
     res.render('auth', { error });
-})
+});
 
 app.post('/auth', passport.authenticate);
 
@@ -137,7 +137,7 @@ app.get('/logout', (req, res) => {
     req.logout();
 
     res.redirect('/auth');
-})
+});
 
 app.listen(5000, () => {
     console.log('Server has been started!');
