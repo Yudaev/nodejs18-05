@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df696bd8-e9d7-4e11-9f2e-a54901ba4418" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/express.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/models/task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/models/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/views/auth.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/views/register.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/views/task.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/views/tasks.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-7/express.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

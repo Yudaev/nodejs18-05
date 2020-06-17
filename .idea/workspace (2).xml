@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369e88bf-7edd-404d-835a-034e442e257a" name="Default Changelist" comment="Домашнее задание к уроку 5">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nodejs18-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson-4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cELjhwLGiPnuJ4MQCIspeGAAzG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\YandexDisk\Обучение\Программирование\JavaScript разработчик\10. NodeJS\nodejs18-05\lesson-3" />
+      <recent name="F:\YandexDisk\Обучение\Программирование\JavaScript разработчик\10. NodeJS\nodejs18-05\lesson-2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\YandexDisk\Обучение\Программирование\JavaScript разработчик\10. NodeJS\nodejs18-05\lesson-5" />
+      <recent name="F:\YandexDisk\Обучение\Программирование\JavaScript разработчик\10. NodeJS\nodejs18-05\lesson-4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369e88bf-7edd-404d-835a-034e442e257a" name="Default Changelist" comment="" />
+      <created>1590088942107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590088942107</updated>
+      <workItem from="1590088943780" duration="735000" />
+      <workItem from="1590432686494" duration="962000" />
+      <workItem from="1590516932936" duration="635000" />
+      <workItem from="1590686219084" duration="1941000" />
+      <workItem from="1591124517460" duration="7949000" />
+      <workItem from="1592248799968" duration="391000" />
+    </task>
+    <task id="LOCAL-00001" summary="Домашнее задание к уроку 2">
+      <created>1590089033450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590089033450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашнее задание к уроку 3">
+      <created>1590433040509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590433040509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашнее задание к уроку 4">
+      <created>1590692744938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590692744938</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашнее задание к уроку 5">
+      <created>1591133078576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591133078576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашнее задание к уроку 2" />
+    <MESSAGE value="Домашнее задание к уроку 3" />
+    <MESSAGE value="Домашнее задание к уроку 4" />
+    <MESSAGE value="Домашнее задание к уроку 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание к уроку 5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="613" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591126643794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591126643794" />
+    <state x="449" y="88" key="CommitChangelistDialog2" timestamp="1591133077514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591133077514" />
+    <state x="743" y="276" key="FileChooserDialogImpl" timestamp="1590433666055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1590433666055" />
+    <state x="544" y="239" key="Vcs.Push.Dialog.v2" timestamp="1591133080781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591133080781" />
+  </component>
+</project>
